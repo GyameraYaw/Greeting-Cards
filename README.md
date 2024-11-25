@@ -20,7 +20,7 @@ By working through this project, I gained hands-on experience in React, includin
 
 ## Testing Screenshots
 
-Below are screenshots showing the final output of the Greeting Cards application, including the header and the three greeting cards displayed correctly:
+Below is a screenshot showing the final output of the Greeting Cards application, including the header and the three greeting cards displayed correctly:
 
 ![Screenshot 2024-11-25 at 12 40 37 PM](https://github.com/user-attachments/assets/3d5dc528-ca9b-46fb-95e0-81fe5675ad59)
 Example Output: All Three Cards and Header Displayed
@@ -42,5 +42,5 @@ I found it particularly helpful to focus on breaking the app into small, reusabl
 - Vite – Fast build tool for modern web projects
 - Tailwind CSS – Utility-first CSS framework for styling
 
----
+
 
