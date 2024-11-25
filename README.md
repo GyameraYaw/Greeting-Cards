@@ -6,7 +6,7 @@ A React application built using Vite and styled with Tailwind CSS to practice cr
 
 ---
 
-## Project Overview**
+## Project Overview
 
 This project involves creating a simple "Greeting Cards" app using React and Vite. The primary objective was to practice the following:
 
